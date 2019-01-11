@@ -64,10 +64,15 @@ body#home {
 }
 .nav-pills {
   margin-top: 10px;
+  margin-bottom: 10px;
 }
 #omelette {
   float: right;
   width: 200px;
   height: 300px;
   border: solid black 3px;
+}
+body#work {
+  background-image: url("../img/bkgr2.jpg");
+  background-size: 100%;
 }
