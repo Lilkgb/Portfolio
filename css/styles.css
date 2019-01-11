@@ -20,7 +20,7 @@ a {
 a:hover {
   color: darkgreen;
 }
-body#home {
+body.aboutme{
   background-image: url("../img/backgr.jpg");
   background-size: 100%;
 }
@@ -31,7 +31,7 @@ body#home {
 .well#welcomewell {
   background: rgba(255,255,255,0.75);
 }
-.panel-title {
+.aboutme .panel-title {
   font-size: 50px;
 }
 #me {
@@ -41,7 +41,7 @@ body#home {
   height: 200px;
   border: solid black 2px;
 }
-.panel-body {
+.aboutme .panel-body {
   font-size: 25px;
 }
 #kazakhstan {
@@ -57,7 +57,7 @@ body#home {
   height: 300px;
   border: solid black 2px;
 }
-.panel-success {
+.aboutme .panel-success {
   border: solid green 5px;
   background-color: rgba(255,255,255,0.75);
   margin-top: 10px;
@@ -75,4 +75,22 @@ body#home {
 body#work {
   background-image: url("../img/bkgr2.jpg");
   background-size: 100%;
+}
+#work .row {
+  margin: 10px;
+}
+#work .panel-heading {
+  text-align: center;
+  background-color: rgba(0,0,0,1);
+}
+#work .panel-body {
+  text-align: center;
+  border: solid white 2px;
+  color: limegreen;
+  font-size: 25px;
+  background-color: black;
+}
+#work .col-md-4 .well {
+  background-color: rgba(0,0,0,0.75);
+  border: solid white 2px;
 }
