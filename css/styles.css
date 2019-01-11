@@ -1,5 +1,5 @@
 #welcome {
-  background-image: url("../img/stitch.jpg");
+  background-image: url("../img/bkgr1.jpg");
   background-size: 100%;
 }
 h1#welcometo {
@@ -60,5 +60,8 @@ body#home {
 .panel-success {
   border: solid green 5px;
   background-color: rgba(255,255,255,0.75);
+  margin-top: 10px;
+}
+.nav-pills {
   margin-top: 10px;
 }
