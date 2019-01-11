@@ -32,3 +32,6 @@ body#home {
 .panel-title {
   font-size: 50px;
 }
+.nav-pills {
+  color: green;
+}
