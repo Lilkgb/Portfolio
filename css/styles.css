@@ -55,3 +55,8 @@ body#home {
   height: 300px;
   border: solid black 2px;
 }
+.panel-success {
+  border: solid green 5px;
+  background-color: rgba(255,255,255,0.75);
+  margin-top: 10px;
+}
