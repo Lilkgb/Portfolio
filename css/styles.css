@@ -2,7 +2,14 @@
   background-image: url("../img/stitch.jpg");
   background-size: 100%;
 }
-#welcometo {
+h1#welcometo {
   text-align: center;
-  font-size: 200px;
+  font-size: 150px;
+  text-shadow: 2px 2px 5px green;
+}
+span {
+  color: red;
+}
+a {
+  color: blue;
 }
