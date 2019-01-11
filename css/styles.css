@@ -1,8 +1,8 @@
-body#welcome {
+#welcome {
   background-image: url("../img/bkgr1.jpg");
   background-size: 100%;
 }
-h1#welcometo {
+#welcome h1 {
   text-align: center;
   font-size: 200px;
   text-shadow: 2px 2px 20px green;
@@ -10,7 +10,7 @@ h1#welcometo {
   text-decoration: underline;
 
 }
-span {
+#welcome span {
   font-style: italic;
 }
 a {
@@ -18,21 +18,22 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: darkgreen;
+  color: pink;
 }
-body.aboutme{
-  background-image: url("../img/backgr.jpg");
-  background-size: 100%;
-}
-.jumbotron#welcomejumbo {
+#welcome .jumbotron {
   color: rgba(0,0,0,0.75);
   background: rgba(255,255,255,0.5);
 }
-.well#welcomewell {
+#welcome .well {
   background: rgba(255,255,255,0.75);
 }
-.aboutme .panel-title {
+
+#aboutme .panel-title {
   font-size: 50px;
+}
+#aboutme {
+  background-image: url("../img/backgr.jpg");
+  background-size: 100%;
 }
 #me {
   float: left;
@@ -41,7 +42,7 @@ body.aboutme{
   height: 200px;
   border: solid black 2px;
 }
-.aboutme .panel-body {
+#aboutme .panel-body {
   font-size: 25px;
 }
 #kazakhstan {
@@ -57,7 +58,7 @@ body.aboutme{
   height: 300px;
   border: solid black 2px;
 }
-.aboutme .panel-success {
+#aboutme .panel-success {
   border: solid green 5px;
   background-color: rgba(255,255,255,0.75);
   margin-top: 10px;
@@ -72,7 +73,8 @@ body.aboutme{
   height: 300px;
   border: solid black 3px;
 }
-body#work {
+
+#work {
   background-image: url("../img/bkgr2.jpg");
   background-size: 100%;
 }
@@ -93,4 +95,17 @@ body#work {
 #work .col-md-4 .well {
   background-color: rgba(0,0,0,0.75);
   border: solid white 2px;
+}
+
+#background{
+  background-image: url("../img/bkgr3.jpg");
+  background-size: 100%;
+}
+#background h1 {
+  font-size: 150px;
+  text-shadow: 2px 2px 10px limegreen;
+  background-color: black;
+  border-radius: 35px;
+  text-align: center;
+  border: solid limegreen 2px;
 }
