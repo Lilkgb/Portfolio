@@ -5,8 +5,10 @@
 h1#welcometo {
   text-align: center;
   font-size: 200px;
-  text-shadow: 2px 2px 20px black;
+  text-shadow: 2px 2px 20px green;
   border-radius: 35px;
+  text-decoration: underline;
+
 }
 span {
   font-style: italic;
@@ -23,8 +25,8 @@ body#home {
   background-size: 100%;
 }
 .jumbotron#welcomejumbo {
-  color: rgba(255, 255, 255, 0.75);
-  background: rgba(0,204,51,0.5);
+  color: rgba(0,0,0,0.75);
+  background: rgba(255,255,255,0.5);
 }
 .well#welcomewell {
   background: rgba(255,255,255,0.75);
