@@ -32,6 +32,19 @@ body#home {
 .panel-title {
   font-size: 50px;
 }
-.nav-pills {
-  color: green;
+#me {
+  float: left;
+  margin: 3px;
+  width: 200px;
+  height: 200px;
+  border: solid black 2px;
+}
+.panel-body {
+  font-size: 25px;
+}
+#kazakhstan {
+  float: right;
+  width: 300px;
+  height: 200px;
+  border: solid black 2px;
 }
