@@ -1,0 +1,8 @@
+#welcome {
+  background-image: url("../img/stitch.jpg");
+  background-size: 100%;
+}
+#welcometo {
+  text-align: center;
+  font-size: 200px;
+}
