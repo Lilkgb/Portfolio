@@ -1,4 +1,4 @@
-#welcome {
+body#welcome {
   background-image: url("../img/bkgr1.jpg");
   background-size: 100%;
 }
@@ -64,4 +64,10 @@ body#home {
 }
 .nav-pills {
   margin-top: 10px;
+}
+#omelette {
+  float: right;
+  width: 200px;
+  height: 300px;
+  border: solid black 3px;
 }
