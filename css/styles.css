@@ -136,7 +136,26 @@ a:hover {
 }
 #interests h1 {
   font-size: 150px;
-  font-family: fantasy;
-  margin-top: 50px;
+  text-decoration: underline;
+  margin-top: 40px;
   text-shadow: 3px 3px 0 black, -1px -1px 0 black, 1px 1px 0 black, -1px -1px 0 black, 1px 1px 0 black;
+  background-color: rgba(0,204,0,0.5);
+  border: white;
+  border-style: dotted;
+  border-radius: 35px;
+}
+#fortnite {
+  float: right;
+  border: solid black 2px;
+}
+#interests ol {
+  font-size: 32px;
+  background-color: rgba(255,255,255,0.5);
+  border: solid pink 5px;
+  color: black;
+}
+#golf {
+  float: left;
+  width: 200px;
+  height: 150px;
 }
