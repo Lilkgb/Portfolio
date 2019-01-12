@@ -130,4 +130,13 @@ a:hover {
   width: 200px;
   height: 200px;
 }
-#background
+
+#interests {
+  background-image: url("../img/bkgr4.jpg");
+}
+#interests h1 {
+  font-size: 150px;
+  font-family: fantasy;
+  margin-top: 50px;
+  text-shadow: 3px 3px 0 black, -1px -1px 0 black, 1px 1px 0 black, -1px -1px 0 black, 1px 1px 0 black;
+}
