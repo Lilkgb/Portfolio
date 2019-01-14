@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a website that has all my portfolio on it. including a about me page, hobbies, my work that i've done, my background._
+_This is a website that has all my portfolio on it. including a about me page, hobbies, my work that i've done, my background. Link to the webpage is https://lilkgb.github.io/Portfolio/_
 
 ## Setup/Installation Requirements
 
