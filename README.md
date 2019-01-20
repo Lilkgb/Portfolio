@@ -10,9 +10,11 @@ _This is a website that has all my portfolio on it. including a about me page, h
 
 ## Setup/Installation Requirements
 
-* _No Setup/Installation Required_
-
-_No need for any extra software just open a browser and input the address in the address bar_
+* _Want to contribute to the website?_
+* _Use either terminal or powershell and enter "git clone https://github.com/Lilkgb/Portfolio" . to get the files onto your computer_
+* _Use any text editor of your choice. I use atom_
+* _Create a branch for whatever you may want to add_
+* _If you have any questions please see contact details below_
 
 ## Known Bugs
 
